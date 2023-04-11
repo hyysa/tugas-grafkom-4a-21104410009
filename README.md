@@ -12,6 +12,6 @@
 
 |              |                      |
 | ------------ | -------------------- |
-| NIM          | 21104410009          |
-| Nama Lengkap | Hilga Satria Pambudi |
+| NIM          | **21104410009**          |
+| Nama Lengkap | **Hilga Satria Pambudi** |
 | Kelas        | TI-4A                |
